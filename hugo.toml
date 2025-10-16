@@ -1,0 +1,22 @@
+baseURL = 'https://example.com/'
+languageCode = 'ko-kr'
+title = '내 문서 사이트'
+theme = 'Hugo'
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.112.0"
+
+[params]
+  description = "문서 사이트 설명"
+  
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = "dracula"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

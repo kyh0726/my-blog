@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on 내 문서 사이트</title>
+    <link>https://example.com/docs/</link>
+    <description>Recent content in Docs on 내 문서 사이트</description>
+    <generator>Hugo</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Tue, 27 Feb 2024 09:30:56 +0100</lastBuildDate>
+    <atom:link href="https://example.com/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resources</title>
+      <link>https://example.com/docs/resources/</link>
+      <pubDate>Tue, 27 Feb 2024 09:30:56 +0100</pubDate>
+      <guid>https://example.com/docs/resources/</guid>
+      <description>&lt;p&gt;Link to valuable, relevant resources.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
