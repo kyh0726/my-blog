@@ -4,7 +4,11 @@
       "Bash(hugo version:*)",
       "Bash(hugo server:*)",
       "Bash(timeout 5 hugo server:*)",
-      "Bash(hugo:*)"
+      "Bash(hugo:*)",
+      "Bash(git clone:*)",
+      "WebSearch",
+      "WebFetch(domain:themes.gohugo.io)",
+      "WebFetch(domain:github.com)"
     ],
     "deny": [],
     "ask": []
