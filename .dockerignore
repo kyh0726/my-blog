@@ -1,0 +1,30 @@
+# Git
+.git
+.gitignore
+.gitmodules
+
+# Hugo
+public/
+resources/
+.hugo_build.lock
+
+# Node modules (if using npm/yarn)
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Documentation
+README.md
+LICENSE
+
+# Claude
+.claude/
